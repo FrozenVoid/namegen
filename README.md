@@ -1,2 +1,5 @@
-# namegen
-Name generator
+# Syntax
+N= length in chars
+
+./namegen N 
+
